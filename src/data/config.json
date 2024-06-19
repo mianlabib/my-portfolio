@@ -8,9 +8,10 @@
   "hireMeLink": "https://twitter.com/mianlabib",
   "projects": [
     {
-      "project-image-url": "https://github.com/kaanayyildiz/benfolio/assets/39806458/9d826c30-0135-4620-8e0f-bc3460848e5e",
+      "project-image-url": "https://i.ibb.co/F8DL8RL/278319025-9d826c30-0135-4620-8e0f-bc3460848e5e.png",
       "project-name": "My Portfolio",
-      "project-desc": "React + Tailwind Portfolio"
+      "project-desc": "React + Tailwind Portfolio",
+      "project-url": "https://github.com/mianlabib/my-portfolio"
     }
   ],
   "social": [
