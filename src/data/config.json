@@ -1,0 +1,34 @@
+{
+  "job": "Full Stack Developer",
+  "name": "Labib Ijaz",
+  "desc": "The traveler of this path, a full web application developer in Pakistan.",
+  "aboutDesc": "I'm a passionate full-stack developer known for creating innovative, user-centric digital solutions. With expertise in both front-end and back-end development, I excel in tackling complex challenges with creativity and efficiency. I'm committed to staying at the forefront of technology to deliver cutting-edge solutions, whether collaborating with teams or leading projects independently.",
+  "email": "labibijaz@gmail.com",
+  "status": "on",
+  "hireMeLink": "https://twitter.com/mianlabib",
+  "projects": [
+    {
+      "project-image-url": "https://github.com/kaanayyildiz/benfolio/assets/39806458/9d826c30-0135-4620-8e0f-bc3460848e5e",
+      "project-name": "My Portfolio",
+      "project-desc": "React + Tailwind Portfolio"
+    }
+  ],
+  "social": [
+    {
+      "icon": "FaXTwitter",
+      "link": "https://x.com/mianlabib"
+    },
+    {
+      "icon": "FaInstagram",
+      "link": "https://instagram.com/mianlabib"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com/mianlabib"
+    },
+    {
+      "icon": "FaLinkedinIn",
+      "link": "https://pk.linkedin.com/in/mianlabib"
+    }
+  ]
+}
